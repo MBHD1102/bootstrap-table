@@ -43,7 +43,7 @@ class API {
 
     for (const item of lines.slice(1)) {
       md[item.split('\n')[0]] = item
-    }
+    } //* This is code it's not usefull anymore *// 
 
     const mds = Object.keys(md)
     for (const [i, key] of this.options.entries()) {
