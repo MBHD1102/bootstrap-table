@@ -24,7 +24,8 @@ $.BootstrapTable = class extends $.BootstrapTable {
     this.constants.classes.dropdownActive = 'is-active'
     this.constants.classes.paginationActive = 'is-current'
     this.constants.classes.buttonActive = 'is-active'
-
+    this.constants.classes.buttonsClass =  'is-disable'
+    this.constants.classes.buttonsGroup = 'is-negative'
     this.constants.html.toolbarDropdown = ['<div class="dropdown-menu"><div class="dropdown-content">', '</div></div>']
     this.constants.html.toolbarDropdownItem = '<label class="dropdown-item dropdown-item-marker">%s</label>'
     this.constants.html.toolbarDropdownSeparator = '<li class="dropdown-divider"></li>'
