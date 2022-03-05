@@ -496,3 +496,18 @@
     "gridSize": 16
   }
 }
+
+
+
+"imagePref": {
+  "prefix": "icon-x",
+  "jpeg": true,
+  "useClassSelector": true,
+  "bgColor": 255-255-255-11-0-100,
+  "name": "icommoon11"
+
+  "historySize": 80,
+  "showCodes": true,
+  "gridsize": 18
+}
+}
